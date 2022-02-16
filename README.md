@@ -10,9 +10,23 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <ul>
-  <li>👋 Hi, I’m @freddyruizrios</li>
+  <li>👋 Hi, I’m Freddy Ruiz Rios</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, Python, JS, Flutter and Dart.</li>
   <li>💼 I am a Computer Engineering student</li>
   <!--<li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>-->
 </ul>
+
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C", "C#", "Visual Basic", "MATLAB", "Octave", "Java", "Kotlin"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["JS"],
+  }
+}
+```
+
