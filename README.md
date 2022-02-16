@@ -8,7 +8,8 @@
 
 <p>I am a front-end developer, I'm a Competitive Programmer and I love learning new stuffs to make my life more satisfying.</p>
 
-<iframe align="right" src="https://giphy.com/embed/lIbVrBqGGHUl2" width="480" height="392" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lIbVrBqGGHUl2">via GIPHY</a></p>
+<img align="right" src=https://giphy.com/gifs/lIbVrBqGGHUl2">
+
 
 <ul>
   <li>👋 Hi, I’m Freddy Ruiz Rios</li>
