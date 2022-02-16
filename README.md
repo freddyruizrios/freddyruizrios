@@ -19,7 +19,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const freddy = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C", "C#", "Visual Basic", "MATLAB", "Octave", "Java", "Kotlin"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
