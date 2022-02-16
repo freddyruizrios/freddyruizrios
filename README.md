@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/freddyruizrios">Freddy Ruiz</a>'s Profile 🦈</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/freddyruizrios">Freddy Ruiz</a> Profile 🦈</h1>
 </p>
 
 <p align="center">
