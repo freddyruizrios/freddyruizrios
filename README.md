@@ -34,4 +34,11 @@ const freddy = {
   }
 }
 ```
+#### Popular Projects
+<a href="https://github.com/freddyruizrios/SenasPinoleras">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=freddyruizrios&repo=SenasPinoleras&theme=onedark" />
+</a>    
+
+
 
