@@ -13,7 +13,7 @@
 
 <!--Añadir gif de tiburones programando-->
 <img align="right" src="https://media.giphy.com/media/lIbVrBqGGHUl2/giphy.gif"> 
-<br>
+
 <!--Informacion extra sobre mi-->
 <ul>
   <li>👋 Hi, I’m Freddy Ruiz Rios</li>
